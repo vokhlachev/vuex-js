@@ -4,13 +4,13 @@
 <br />
 <p align="center">
 
-  <h3 align="center"> VUEX PRACTICE </h3>
+  <h3 align="center"> VUEX JS PRACTICE </h3>
   
 <a href="https://ibb.co/ZLyqY1C"><img src="https://i.ibb.co/2nXGsYB/vuex.png" alt="vuex" border="0"></a>
   <br />
  </p>
 
-<h2 align="center">VUEX PRACTICEL</h2>
+<h2 align="center">VUEX JS PRACTICE</h2>
 <br />
 Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion. Here small practice with VueX JS.
 
