@@ -1,5 +1,5 @@
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://en.wikipedia.org/wiki/JavaScript)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-vue.svg)](https://forthebadge.com)
 
 <br />
 <p align="center">
@@ -32,7 +32,7 @@ npm install npm@latest -g
 
 1. Clone the repo or download it into your local machine
 ```sh
-https://github.com/vokhlachev/to-do-vuejs-graphql.git
+https://github.com/vokhlachev/vuex-js.git
 ```
 3. Run NPM in into project folder to get all packages and dependencies from package.json
 ```sh
